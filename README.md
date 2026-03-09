@@ -1,2 +1,3 @@
 # Sobre mim...
 *Olá, meu nome é Victor*                       
+**Meu e-mail é: victor.cardoso.luz@rscola.pr.gov.br**
